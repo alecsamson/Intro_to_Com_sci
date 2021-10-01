@@ -1,2 +1,2 @@
-# Intro_to_Com_sci
+# algorithms-exercises
 Created with CodeSandbox
